@@ -10,7 +10,7 @@ We trained a classifier on the forward transitions of the "ordered" condition in
 ### Related scientific findings
 We have succesfully linked this measure to speech processing ([see](https://academic.oup.com/cercor/article/33/11/6608/6975346?login=true.)) (recently [replicated](https://www.biorxiv.org/content/biorxiv/early/2023/06/29/2023.06.27.546746.full.pdf))
 
-## Credits
+## Reference
 The mastermind behind the algorithm is Juliane Schubert.
 
 The Python code was written by me.
