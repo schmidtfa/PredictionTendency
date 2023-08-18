@@ -17,4 +17,4 @@ The Python code was written by me.
 
 If you use the code in your work please cite:
 
-Schubert, J., Schmidt, F., Gehmacher, Q., Bresgen, A., & Weisz, N. (2023). Cortical speech tracking is related to individual prediction tendencies. Cerebral Cortex, 33(11), 6608-6619.[link](https://academic.oup.com/cercor/article/33/11/6608/6975346)
+Schubert, J., Schmidt, F., Gehmacher, Q., Bresgen, A., & Weisz, N. (2023). Cortical speech tracking is related to individual prediction tendencies. Cerebral Cortex, 33(11), 6608-6619. ([link](https://academic.oup.com/cercor/article/33/11/6608/6975346))
